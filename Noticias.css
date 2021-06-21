@@ -1,0 +1,19 @@
+
+.fonta{
+    color: black;
+    
+}
+h2{
+    background-color:#DCDCDC ;
+    height: 60px;
+    text-align: left;
+}
+h3{
+    font-family: monospace;
+    font-size: 20pt;
+}
+body{
+    background-color: rgba(223, 228, 236, 0.733);
+    font-family: monospace;
+    font-size: 13pt;
+}
